@@ -1,0 +1,3 @@
+# Horiseon-Agency
+
+Refactored the original source code as requested by Horiseon Marketing. The changes that were made to the HTML file are: creating semantic html structure, alternative messages for images and functional links. In the CSS file, I arranged the properties and selectors to be compacted. There are messages explaining the sections of the CSS document. Our goal is to create a website that is more accesible through search engines. 
